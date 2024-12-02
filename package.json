@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "bootstrap": "^5.3.3",
+    "chart.js": "^4.4.7",
+    "papaparse": "^5.4.1",
+    "react-bootstrap": "^2.10.6",
+    "react-chartjs-2": "^5.2.0",
+    "react-chartjs2": "^1.2.1",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^4.2.4"
+  }
+}
